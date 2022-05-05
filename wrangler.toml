@@ -1,0 +1,9 @@
+name = "gatsby-starter-ghost"
+type = "webpack"
+account_id = "5ca9d00878fe40f862e71e5a3ed51517"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2022-05-05"
