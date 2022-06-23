@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: `https://blog.konsensus.network`, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://spaartechnologie.com`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 

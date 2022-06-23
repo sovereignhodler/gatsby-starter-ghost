@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://blog.konsensus.network",
-    "contentApiKey": "30576021a694c19fe09730b819"
+    "apiUrl": "https://spaartechnologie.com",
+    "contentApiKey": "9cc83fcad3230ba9653bcee59f"
   },
   "production": {
-    "apiUrl": "https://blog.konsensus.network",
-    "contentApiKey": "30576021a694c19fe09730b819"
+    "apiUrl": "https://spaartechnologie.com",
+    "contentApiKey": "9cc83fcad3230ba9653bcee59f"
   }
 }
